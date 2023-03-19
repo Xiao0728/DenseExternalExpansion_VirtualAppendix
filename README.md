@@ -5,7 +5,7 @@ In particular, we implment our external dense expansion techniques for multiple 
 
 
 ## Usage
-To reproduce the dense external expanson experiments, we provide a [Notebook Demo]("DenseExternalExpansion(ColBERT-PRF)_demo.ipynb")
+To reproduce the dense external expanson experiments, we provide a [Notebook Demo]("DenseExternalExpansion(ColBERT-PRF)_demo.ipynb").
 
 
 ## References
