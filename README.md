@@ -9,4 +9,4 @@ To reproduce the dense external expanson experiments, we provide a [Notebook Dem
 
 
 ## References
- - [Wang23]: Xiao Wang, Craig Macdonald, Iadh Ounis. Pseudo-Relevance Feedback for Multiple Representation Dense Retrieval. In Journal of IP&M. https://www.sciencedirect.com/science/article/pii/S0306457322001364
+ - [Wang23]: Xiao Wang, Craig Macdonald, Iadh Ounis. Improving zero-shot retrieval using dense external expansion. In Journal of IP&M. https://www.sciencedirect.com/science/article/pii/S0306457322001364
