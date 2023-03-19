@@ -1,7 +1,7 @@
 ## This repository is the Virtual Appendix for our IPM paper: "Improving zero-shot retrieval using dense external expansion".
 
 
-In particular, we implment our external dense expansion techniques for multiple representation based on the [PyTerrier ColBERT plugin](https://github.com/terrierteam/pyterrier_colbert). In addition, the external dense expansion for single-representation dense retrieval is implmented based on the [PyTerrier ANCE plugin](https://github.com/terrierteam/pyterrier_ance).
+In particular, we implment our external dense expansion techniques for multiple representation dense retrieval based on the [PyTerrier ColBERT plugin](https://github.com/terrierteam/pyterrier_colbert). In addition, the external dense expansion for single-representation dense retrieval is implmented based on the [PyTerrier ANCE plugin](https://github.com/terrierteam/pyterrier_ance).
 
 
 ## Usage
